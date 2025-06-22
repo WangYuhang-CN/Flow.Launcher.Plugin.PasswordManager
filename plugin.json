@@ -1,0 +1,14 @@
+{
+    "ID": "745a60b3-9ba7-4b24-8d58-ab4ea8ca076f",
+    "ActionKeywords": [
+       ";"
+    ],
+    "Name": "Password Manager",
+    "Description": "Password Manager Plugin",
+    "Author": "Wang.Yuhang",
+    "Version": "0.0.9",
+    "Language": "python",
+    "Website": "https://github.com/WangYuhang-CN/Flow.Launcher.Plugin.PasswordManager",
+    "IcoPath": "Images\\pm_logo.png",
+    "ExecuteFileName": "main.py"
+}
